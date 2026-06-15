@@ -5,7 +5,7 @@
 
 ## 启动说明
 
-该工程编译后是一个网页项目。将其挂载到 http 服务器，直接进入 index.html 即可。官方地址为：https://algolearn.ttqf.tech/。
+该工程编译后是一个网页项目。将其挂载到 http 服务器，直接进入 index.html 即可。官方地址为：[https://algolearn.ttqf.tech/](https://algolearn.ttqf.tech/)。
 
 本系统支持 PWA。您可通过谷歌浏览器将其安装到设备上（PC 端和移动端均可，*但其实不太建议在移动端上使用）*，这样便可以在无网络情况下使用。操作方式请见下图。
 
